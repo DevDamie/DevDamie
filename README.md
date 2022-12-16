@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Damilola Adegbola @DevDamie
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Data Analytics
 - 🌱 I'm building on my skills in Microsoft Excel, Python, SQL, Tableau and PowerBi.
 - 💞️ I’m looking to collaborate on Data Analytics projects.
-- 📫 How to reach me damadegb@gmail.com
+- 📫 You can reach me on damadegb@gmail.com
 
 <!---
 DevDamie/DevDamie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
